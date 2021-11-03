@@ -1,7 +1,7 @@
 Simple Local Blockchain Model
 ==============
 
-***A Simplistic model of a blockchain with annotations to help curious layment understand what the blockchain is and how it functions***
+***A simplistic model of a blockchain with annotations to help curious layment understand what the blockchain is and how it functions***
 
 **Author:** *Bradley J.M.*
 
